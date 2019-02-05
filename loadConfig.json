@@ -1,0 +1,7 @@
+{
+    "initialSourcePaths": [
+        "responder.js"
+    ],
+    "reloadSourcePaths": [
+    ]
+}
